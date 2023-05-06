@@ -1,0 +1,9 @@
+[submodule "external/sqlite"]
+	path = external/sqlite
+	url = https://github.com/sqlite/sqlite
+[submodule "external/zsh-histdb"]
+	path = external/zsh-histdb
+	url = https://github.com/larkery/zsh-histdb
+[submodule "external/zsh"]
+	path = external/zsh
+	url = https://github.com/zsh-users/zsh

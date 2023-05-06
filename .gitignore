@@ -1,0 +1,16 @@
+build
+cmake-build-debug
+.cache
+.idea
+a.out
+__pycache__
+.DS_Store
+data/**
+.envrc
+.func.sh
+*.o
+.tmuxp.yaml
+/usr
+db.db
+.venv
+.pytest_cache
