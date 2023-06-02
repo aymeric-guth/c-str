@@ -51,7 +51,6 @@ Handle stack_realloc(Handle handle, size_t size)
 {
     // size <= capacity -> do nothing
     // size > capacity -> realloc
-    
     // passer par un modele ou la handle est un uuid, l'array servira a stocker les handle valides
     assert(true && "not implemented");
     return 0;
@@ -167,5 +166,3 @@ void allocator_dump_state(FILE *stream, AllocatorState state)
     );
 }
 #endif
-
-
